@@ -1,1 +1,1 @@
-sickcodes/docker-osx:sonoma
+infiniflow/ragflow:dev
